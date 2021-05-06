@@ -1,0 +1,163 @@
+{
+    "slide": [
+        {
+            "id": 0,
+            "brand": "AIR JORDAN",
+            "image": "https://png2.cleanpng.com/sh/2823c3f13c61712047de13089b3943b6/L0KzQYm3UsA5N5hmiZH0aYP2gLBuTfFqel5vhARtYX6wg7n2hb10dpZmg9d7cz3xebzsTfpwepVmhp98cHn9ebzsTfFqel5vhARtYX6wcrL6iBV1apJxhJ98aHBog368gcdjbpI1fKkBZUO6SHABVsk6PWg7SqMAMUizR4W6WME1QGgziNDw/kisspng-air-jordan-shoe-sneakers-nike-jordan-spizike-air-jordan-basketball-shoes-5a7bfa0d76e378.869957621518074381487.png"
+        },
+        {
+            "id": 4,
+            "brand": "SONY",
+            "image": "https://png2.cleanpng.com/sh/cd4be29a1234a60fb343b88f85efe7ff/L0KzQYi4UsE3N2I9e5GAYUO4RoW7UvMxbmZoUZCANEG8RoaAUcE2OWQ5TKoAMUS6SYG7TwBvbz==/5a356442c0f5c9.5419657115134485147904.png"
+        },
+        {
+            "id": 14,
+            "brand": "PELOTON",
+            "image": "https://png2.cleanpng.com/sh/e4490043185916878739e2fa2a7aecb8/L0KzQYm3VMA5N6hpj5H0aYP2gLBuTgBmdJD5h9C2aX7nf7F5TfN6a51uhtk2ZYjogrTwkBUuappwfeU2YnnmibTzhb1jgZRue95uLUXkc7K9UBZmOmdoTdQCLkS5RYWBVMYxOWY3S6Q6M0O0QIK8WMgveJ9s/kisspng-peloton-indoor-cycling-exercise-bikes-bicycle-bycicle-5aca63fe26c5b7.4654846015232133101588.png"
+        }
+    ],
+    "products": [
+        {
+            "id": 0,
+            "tagline": "The greatest of all time1",
+            "about": "product 1984-2021",
+            "brand": "AIR JORDAN",
+            "type": "fashion",
+            "price": 120.00,
+            "image": "https://png2.cleanpng.com/sh/2823c3f13c61712047de13089b3943b6/L0KzQYm3UsA5N5hmiZH0aYP2gLBuTfFqel5vhARtYX6wg7n2hb10dpZmg9d7cz3xebzsTfpwepVmhp98cHn9ebzsTfFqel5vhARtYX6wcrL6iBV1apJxhJ98aHBog368gcdjbpI1fKkBZUO6SHABVsk6PWg7SqMAMUizR4W6WME1QGgziNDw/kisspng-air-jordan-shoe-sneakers-nike-jordan-spizike-air-jordan-basketball-shoes-5a7bfa0d76e378.869957621518074381487.png"
+        },
+        {
+            "id": 1,
+            "tagline": "tagline -----3",
+            "about": "product 8888-9999",
+            "brand": "STING",
+            "type": "sport",
+            "price": 65.00,
+            "image": "https://png2.cleanpng.com/sh/43ec771162bf8685a2655827745be7d6/L0KzQYm3VMIzN6ZpiZH0aYP2gLBuTfJia5x1edV0LYTrgrr9hb1ud6V0itVEY3zoPb3whvUuapZtgdDtLXLkgsS0ivFsaV5miAJxYXz3PYbohPNlbWpmfdZrNEK3Pom8VMU4Omc2Sac7NES1RIS7Vsk4O2cziNDw/kisspng-backpack-thrive-motorcycle-life-behind-bars-jaka-asphalt-5adcde9aedb424.8545726115244243469736.png"
+        },
+        {
+            "id": 2,
+            "tagline": "The greatest of all time1",
+            "about": "product 1984-2021",
+            "brand": "AIR JORDAN",
+            "type": "sport",
+            "price": 25.00,
+            "image": "https://png2.cleanpng.com/sh/c06816242dbecb6b0dfbaf1a026b5a87/L0KzQYi4UsAyN5NnSJGAYUK0cYeAUclnbmNpSJCCMUG2Roe8VsE2OWM2TaYCM0e5RYa5TwBvbz==/5a21a6719ff2d0.7113665615121547376552.png"
+        },
+        {
+            "id": 3,
+            "tagline": "The greatest of all time1",
+            "about": "product 1984-2021",
+            "brand": "AIR JORDAN",
+            "type": "electronics",
+            "price": 20.00,
+            "image": "https://png2.cleanpng.com/sh/cd4be29a1234a60fb343b88f85efe7ff/L0KzQYi4UsE3N2I9e5GAYUO4RoW7UvMxbmZoUZCANEG8RoaAUcE2OWQ5TKoAMUS6SYG7TwBvbz==/5a356442c0f5c9.5419657115134485147904.png"
+        },
+        {
+            "id": 4,
+            "tagline": "The greatest of all time1",
+            "about": "product 1984-2021",
+            "brand": "AIR JORDAN",
+            "type": "electronics",
+            "price": 90.00,
+            "image": "https://png2.cleanpng.com/sh/22e619093d0aea1e049117eda9b7aa2f/L0KzQYm3VMEzN6VvfZH0aYP2gLBuTfJifKVqius2Y3jkgrjskr1ud5NuhNc2cHjyfra0gfNkbaR4hARyZYOwecHvjB5mNZlqRddqcoDrf7BsTcVia5ZqSagEMkjkR4O7TsU2OWkATqk7MUW1Q4a3V8U3OWI7Tqc3cH7q/kisspng-battery-charger-mobile-phone-accessories-iphone-he-earphone-5acee16928a724.5518967215235075611665.png"
+        },
+        {
+            "id": 5,
+            "tagline": "The greatest of all time1",
+            "about": "product 1984-2021",
+            "brand": "AIR JORDAN",
+            "type": "fashion",
+            "price": 40.00,
+            "image": "https://png2.cleanpng.com/sh/c5692b8a8a7480a04c6031d7b9bd7a68/L0KzQYm3VsI5N6txiZH0aYP2gLBuTgBzcZ95fdY2dD32eLr5lL1kepZ8RdDuY3uwhLF3TgBtaZpzReY2c3jsgsW0VfI0PWNqTKYDNEC0RoW1VME1OGoAT6c6NUOzQoK4WcA5PWU1T5D5bne=/kisspng-printed-t-shirt-crew-neck-top-plain-t-shirt-5b352e44840164.4140997515302119085407.png"
+        },
+        {
+            "id": 6,
+            "tagline": "The greatest of all time1",
+            "about": "product 1984-2021",
+            "brand": "AIR JORDAN",
+            "type": "fashion",
+            "price": 15.00,
+            "image": "https://png2.cleanpng.com/sh/6463d526b6458d57174a2031f368fb6b/L0KzQYm3UsE5N5t3j5H0aYP2gLBuTgBzcZ95fdY2dD32eLr5lL1pd5Dpgdc2Y3zyhLnwjvcufF54gNt7dD3zfri0lQJidqR1eeRuboSweb7ohBV0NWZmUKtsOEnpSYbohcE4NmY7SacEN0W5QYa4WMk4QWM4Sag6M0GxgLBu/kisspng-printed-t-shirt-hoodie-clothing-t-shirt-png-transparent-images-5a89c89f95ae17.5615975615189792316131.png"
+        },
+        {
+            "id": 7,
+            "tagline": "The greatest of all time1",
+            "about": "product 1984-2021",
+            "brand": "AIR JORDAN",
+            "type": "fashion",
+            "price": 170.00,
+            "image": "https://png2.cleanpng.com/sh/4bd8af8e8feb492f9f145d5e6a751063/L0KzQYm3U8E0N5Rmj5H0aYP2gLBuTgNpd5YyhNdqdHjogn7ohPllaaQyiOd2YT3wdbA0k71jcZgyi9p4ZYOwRbLoV8c1PmQ4TqcAM0WxQIa4V8YzOmI2TaQ5OUK2R4WAUsIzPl91htk=/kisspng-shoe-leather-adidas-puma-men-s-big-shoes-5aa77463365535.0517622115209237472226.png"
+        },
+        {
+            "id": 8,
+            "tagline": "The greatest of all time1",
+            "about": "product 1984-2021",
+            "brand": "AIR JORDAN",
+            "type": "fashion",
+            "price": 50.00,
+            "image": "https://png2.cleanpng.com/sh/6aeee59eec4b8b78553eaa6824cfb4f2/L0KzQYm3UcMyN5Z8j5H0aYP2gLBuTgQue5luiuY2dHBzPcTzhfV3bV5ohNH9aHnxd37pjPFkc155ReVxaYL3PYboV8E6aZM9fKtqZEa7Poe5VcYxOGo8Sac6N0O8RIe4Vsg6OWcziNDw/kisspng-t-shirt-top-sleeve-clothing-black-t-shirt-5a719ab8d9ad68.6256009715173946168916.png"
+        },
+        {
+            "id": 9,
+            "tagline": "The greatest of all time1",
+            "about": "product 1984-2021",
+            "brand": "AIR JORDAN",
+            "type": "beauty",
+            "price": 70.00,
+            "image": "https://png2.cleanpng.com/sh/92fa98dc91e8a54941a7c0f718dac0fc/L0KzQYi4UsE5N2NrUZGAYUO6RLOCUsk1PZI9UZC6NUa4RIG7UsE2OWQ6T6U7Nka5QIiATwBvbz==/5a374b92945a89.1565404215135732666077.png"
+        },
+        {
+            "id": 10,
+            "tagline": "The greatest of all time1",
+            "about": "product 1984-2021",
+            "brand": "AIR JORDAN",
+            "type": "electronics",
+            "price": 50.00,
+            "image": "https://png2.cleanpng.com/sh/2ec6d80902287bb1a0d08734e9f0f8b0/L0KzQYm3UsAzN5D3fZH0aYP2gLBuTf1mdZD3kZ9sYYLnPb7wgCJwe5Uyi9dsdYLoPbXwhBl1aZ0ye9H2cIX3dcO0hPF1aV54ReVqbnTsg7y0jfVud6NARdVqcnSwRbKAVcE4OGo2Udc5ZUaxQ4W4Ucg4P2I2TaMCNkK2QIWCUcA3NqFzf3==/kisspng-memory-card-microsd-secure-digital-computer-data-s-sandisk-memory-card-5a75170919e0e6.341187711517623049106.png"
+        },        {
+            "id": 11,
+            "tagline": "The greatest of all time1",
+            "about": "product 1984-2021",
+            "brand": "AIR JORDAN",
+            "type": "sport",
+            "price": 15.00,
+            "image": "https://png2.cleanpng.com/sh/5cc0b6993a4a6b39fc52d57229b72388/L0KzQYm3UsAzN5tufZH0aYP2gLBuTfR2dZNnfd51LYDricTwgBFtNZZ9feRsaYPoPcjsifdpfF55itNybnnxd37CjBdiNZV6hdRrZXzvg368gcc1apU4StcDMHW6Q3A4UMU1O2E4UKMAMUe5QIG3VcA6PWE6RuJ3Zx==/kisspng-dumbbell-physical-exercise-weight-training-yoga-dumbbells-5a74bd32e80e73.1054303815176000509505.png"
+        },        {
+            "id": 12,
+            "tagline": "The greatest of all time1",
+            "about": "product 1984-2021",
+            "brand": "AIR JORDAN",
+            "type": "sport",
+            "price": 120.00,
+            "image": "https://png2.cleanpng.com/sh/4a5efdc4dfd2231d821463666ab29f2f/L0KzQYm3U8I6N6RBiZH0aYP2gLBuTfJiepNqhN42ZIXwcrPsjPwuf5Zuf9p9LYT1cbr1if5oNZZ9feRsaYPoPbb4lflxdZZzRdRqcnLofL20VfFjbJJmTtM7NUizR4m1Ucc3PmQ3SaI6NUK1Q4iCU8cxOWY4TpD5bne=/kisspng-barbell-dumbbell-weight-training-exercise-equipmen-barbell-5abdaa6a258078.1766321015223793701536.png"
+        },
+        {
+            "id": 13,
+            "tagline": "The greatest of all time1",
+            "about": "product 1984-2021",
+            "brand": "AIR JORDAN",
+            "type": "sport",
+            "price": 45.00,
+            "image": "https://png2.cleanpng.com/sh/2ca7a4a853711c09f67a7288efb315eb/L0KzQYi4UsIxN6FsiZGAYUPkQ4rsgcRkamo4UJCCMkW2RoGAWME2OWQ8Tqc8NUS2QYW6UsE0O191htk=/5a3a39ea4cb938.72536078151376535431432133.png"
+        },
+        {
+            "id": 14,
+            "tagline": "The greatest of all time1",
+            "about": "product 1984-2021",
+            "brand": "PELOTON",
+            "type": "sport",
+            "price": 250.00,
+            "image": "https://png2.cleanpng.com/sh/94afee6a44be2a150376e5d9b133dd85/L0KzQYm3WMA1N6FnipH0aYP2gLBuTflvbJD0ip9seXPvebBuTgBmdJD5h9C2YnnmibTzhb1mgJZ3e9t8ZT3lebzsk702amc6S6U8NkO2dYeAVL46OGo2TKM7M0G4Q4S6Vcg6OGM3SaQBLoDxd1==/kisspng-indoor-cycling-peloton-bicycle-exercise-bikes-5b65333633e674.9091412315333589022126.png"
+        },
+        {
+            "id": 15,
+            "tagline": "The greatest of all time1",
+            "about": "product 1984-2021",
+            "brand": "AIR JORDAN",
+            "type": "sport",
+            "price": 20.00,
+            "image": "https://png2.cleanpng.com/sh/dff43693d828c00a7650f93e13097984/L0KzQYm3UsAzN5xoiZH0aYP2gLBuTglwb5IyhdN9LYDricTwgBFtNZdujNDuc4OwgLnCkBlkaZ0yfepucnPsg7a0mf9oaV5yeeY2NXG6RIO7VvU5a2k4SKQ3N0G5RIK7VcIyPWI8Tag5OUS1RYi8Vb5xdpg=/kisspng-yoga-mat-physical-fitness-physical-exercise-yoga-mat-5a74246e8c8302.7164145215175609425755.png"
+        }
+    ]
+}
